@@ -1,2 +1,2 @@
-# secondday-yara-test
-A list of custom created yara rules
+# Yara Rules
+A list of custom created yara rules for testing purposes only.
